@@ -23,6 +23,7 @@ Aplicação web interativa desenvolvida para praticar conceitos fundamentais de 
 ---
 
 ## 📂 Estrutura de Ficheiros
+```text
 .
 ├── index.html    # Estrutura HTML do site
 ├── style.css     # Estilos e temas (claro/escuro)
